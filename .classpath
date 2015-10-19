@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="libs/jackcess-2.0.4.jar"/>
+	<classpathentry kind="lib" path="libs/ucanaccess-2.0.5.jar"/>
+	<classpathentry kind="lib" path="libs/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="farmacia_lib/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="farmacia_lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="farmacia_lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="farmacia_lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="farmacia_lib/jackcess-2.0.4.jar"/>
+	<classpathentry kind="lib" path="farmacia_lib/ucanaccess-2.0.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -120,6 +120,7 @@ public class frmLogin extends JFrame implements ActionListener {
 		try {
 			String file = new File("").getAbsolutePath();
 			JOptionPane.showConfirmDialog(null, file);
+			// SOY UNA LINEA AGREGADA
 			File bFile = new File(file+"/"+rutaImagen);
 			BufferedImage image = ImageIO.read(bFile);
 			WallpaperBorder wall = new WallpaperBorder(image);
